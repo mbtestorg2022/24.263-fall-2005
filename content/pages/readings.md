@@ -17,21 +17,198 @@ Tomas, Vincent, ed. _Creativity in the Arts_. Englewood Cliffs, NJ: Prentice-Hal
 
 Minsky, Marvin. _The Emotion Machine._ New York, NY: Simon and Schuster, 2006. ISBN: 0743276639.
 
-| Lec # | Topics/Readings |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} The Spiritual and the Creative {{< br >}}{{< br >}}  |
-| 2 | Singer, Irving. _Feeling and Imagination_. Lanham, MD: Rowman and Littlefield, 2002, pp. ix-58. ISBN: 0742512347. |
-| 3 | Singer, Irving. _Feeling and Imagination_. Lanham, MD: Rowman and Littlefield, 2002, pp. 59-141. ISBN: 0742512347. |
-| 4 | Singer, Irving. _Feeling and Imagination_. Lanham, MD: Rowman and Littlefield, 2002, pp. 143-207. ISBN: 0742512347. |
-| 5 |  {{< br >}}{{< br >}} Bohm, David. _On Creativity._ London, UK; New York, NY: Routledge, 2004, pp. vii-26. ISBN: 0415336406. {{< br >}}{{< br >}} The Creative Experience (Part 1) {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Bohm, David. _On Creativity._ London, UK; New York, NY: Routledge, 2004, pp. 27-61. ISBN: 0415336406. {{< br >}}{{< br >}} The Creative Experience (Part 2) {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Bohm, David. _On Creativity._ London, UK; New York, NY: Routledge, 2004, pp. 62-118. ISBN: 0415336406. {{< br >}}{{< br >}} The Creative Experience (Part 1) {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Tomas, Vincent, ed. _Creativity in the Arts_. Englewood Cliffs, NJ: Prentice-Hall, 1964, pp. 1-34. {{< br >}}{{< br >}} The Creative Process (Part 2) {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Tomas, Vincent, ed. _Creativity in the Arts_. Englewood Cliffs, NJ: Prentice-Hall, 1964, pp. 35-66. {{< br >}}{{< br >}} Aesthetic Creativity (Part 1) {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Tomas, Vincent, ed. _Creativity in the Arts_. Englewood Cliffs, NJ: Prentice-Hall, 1964, pp. 67-109. {{< br >}}{{< br >}} Aesthetic Creativity (Part 2) {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Singer, Irving. "Aesthetic Foundations of Ethics and Religion." In _The Harmony of Nature and Spirit_. Baltimore, MD, and London, UK: The Johns Hopkins University Press, 1996. ISBN: 0801860512. {{< br >}}{{< br >}} Creativity in Practice {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Minsky, Marvin. _The Emotion Machine._ New York, NY: Simon and Schuster, 2006. ISBN: 0743276639. {{< br >}}{{< br >}} Creativity in Science and Technology {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Discussion of Student Drafts of Paper 2 {{< br >}}{{< br >}} Creativity in Western Philosophy {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics/Readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+The Spiritual and the Creative
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Singer, Irving. _Feeling and Imagination_. Lanham, MD: Rowman and Littlefield, 2002, pp. ix-58. ISBN: 0742512347.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Singer, Irving. _Feeling and Imagination_. Lanham, MD: Rowman and Littlefield, 2002, pp. 59-141. ISBN: 0742512347.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Singer, Irving. _Feeling and Imagination_. Lanham, MD: Rowman and Littlefield, 2002, pp. 143-207. ISBN: 0742512347.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bohm, David. _On Creativity._ London, UK; New York, NY: Routledge, 2004, pp. vii-26. ISBN: 0415336406.
+
+The Creative Experience (Part 1)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bohm, David. _On Creativity._ London, UK; New York, NY: Routledge, 2004, pp. 27-61. ISBN: 0415336406.
+
+The Creative Experience (Part 2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bohm, David. _On Creativity._ London, UK; New York, NY: Routledge, 2004, pp. 62-118. ISBN: 0415336406.
+
+The Creative Experience (Part 1)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tomas, Vincent, ed. _Creativity in the Arts_. Englewood Cliffs, NJ: Prentice-Hall, 1964, pp. 1-34.
+
+The Creative Process (Part 2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tomas, Vincent, ed. _Creativity in the Arts_. Englewood Cliffs, NJ: Prentice-Hall, 1964, pp. 35-66.
+
+Aesthetic Creativity (Part 1)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tomas, Vincent, ed. _Creativity in the Arts_. Englewood Cliffs, NJ: Prentice-Hall, 1964, pp. 67-109.
+
+Aesthetic Creativity (Part 2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Singer, Irving. "Aesthetic Foundations of Ethics and Religion." In _The Harmony of Nature and Spirit_. Baltimore, MD, and London, UK: The Johns Hopkins University Press, 1996. ISBN: 0801860512.
+
+Creativity in Practice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Minsky, Marvin. _The Emotion Machine._ New York, NY: Simon and Schuster, 2006. ISBN: 0743276639.
+
+Creativity in Science and Technology
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Student Drafts of Paper 2
+
+Creativity in Western Philosophy
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Research_Readings" >}}{{< /anchor >}}Partial List of Research Readings
 ----------------------------------------------------------------------------------
